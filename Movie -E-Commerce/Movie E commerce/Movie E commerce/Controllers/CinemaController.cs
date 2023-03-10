@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Movie_E_commerce.Data;
+using Movie_E_commerce.Models;
+
 namespace Movie_E_commerce.Controllers
 {
     public class CinemaController : Controller
@@ -12,9 +14,11 @@ namespace Movie_E_commerce.Controllers
         }
         public async Task<IActionResult> Index()
         {
+
             var allCinemaList = await _context.Cinemas.ToListAsync();
 
-            return View();
+            return View((List<Cinema>)allCinemaList);
+
         }
     }
 }

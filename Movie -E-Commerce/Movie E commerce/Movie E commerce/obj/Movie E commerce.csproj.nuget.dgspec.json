@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\Movie -E-Commerce\\Movie E commerce\\Movie E commerce\\Movie E commerce.csproj": {}
+    "C:\\Users\\hp\\Desktop\\Movie-E-Commerce\\Movie -E-Commerce\\Movie E commerce\\Movie E commerce\\Movie E commerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\Movie -E-Commerce\\Movie E commerce\\Movie E commerce\\Movie E commerce.csproj": {
+    "C:\\Users\\hp\\Desktop\\Movie-E-Commerce\\Movie -E-Commerce\\Movie E commerce\\Movie E commerce\\Movie E commerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Movie -E-Commerce\\Movie E commerce\\Movie E commerce\\Movie E commerce.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Movie-E-Commerce\\Movie -E-Commerce\\Movie E commerce\\Movie E commerce\\Movie E commerce.csproj",
         "projectName": "Movie E commerce",
-        "projectPath": "C:\\Users\\hp\\Desktop\\Movie -E-Commerce\\Movie E commerce\\Movie E commerce\\Movie E commerce.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Movie-E-Commerce\\Movie -E-Commerce\\Movie E commerce\\Movie E commerce\\Movie E commerce.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\Movie -E-Commerce\\Movie E commerce\\Movie E commerce\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Movie-E-Commerce\\Movie -E-Commerce\\Movie E commerce\\Movie E commerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

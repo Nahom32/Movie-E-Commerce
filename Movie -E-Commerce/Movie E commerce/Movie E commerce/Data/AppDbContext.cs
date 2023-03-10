@@ -19,11 +19,9 @@ namespace Movie_E_commerce.Data
                 am.MovieId
             });
             modelBuilder.Entity<Actor_Movie>().HasOne(m => m.Movie)
-                .WithMany(am => am.Actors_Movies).HasForeignKey(m => m.MovieId);
+                .WithMany(am => am.Actors_Movies).HasForeignKey(m => m.MovieId).OnDelete(DeleteBehavior.Cascade);
             modelBuilder.Entity<Actor_Movie>().HasOne(a => a.Actor)
-                .WithMany(am => am.Actors_Movies).HasForeignKey(a => a.ActorId);
-
-
+                .WithMany(am => am.Actors_Movies).HasForeignKey(a => a.ActorId).OnDelete(DeleteBehavior.Cascade);
             base.OnModelCreating(modelBuilder);
         }
         public DbSet<Actor> Actors { get; set; }

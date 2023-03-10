@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VNmL+7hDbs4Y+z2pGxE7GZfQRGfrkA/GyqYoah632eHk6sySEZA496JFmLiQ6I39MoIHiuUrLnJTgRtMQCUANQ==",
+  "dgSpecHash": "+xJ0YyVzo1aRL1+8cKxm2mju8a6Ru+ASc10vlOLIgkHz0EZXTNJAmtlot5gFUkPoCoLDK99pMDt/SpTEKYTnHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\Movie -E-Commerce\\Movie E commerce\\Movie E commerce\\Movie E commerce.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Movie-E-Commerce\\Movie -E-Commerce\\Movie E commerce\\Movie E commerce\\Movie E commerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
